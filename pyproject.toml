@@ -9,3 +9,6 @@ dependencies = [
     "numpy>=2.2.5",
     "plotext>=5.3.2",
 ]
+
+[project.scripts]
+bplot = "bplot.bplot:main"
