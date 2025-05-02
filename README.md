@@ -1,3 +1,4 @@
+```
  █████               ████            █████
 ░░███               ░░███           ░░███
  ░███████  ████████  ░███   ██████  ███████
@@ -9,7 +10,7 @@
            ░███
            █████
           ░░░░░
-
+```
 bplot can be used to plot binary data ouput from debuggers like gdb, mdb etc.
 
 ---
