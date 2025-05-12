@@ -159,7 +159,7 @@ def plot_data(data, plot_height):
         h = plot_height
     plt.plot_size(w, h)
     plt.scatter(data)
-    plt.title(" ".join(sys.argv))
+    plt.title("bplot " + " ".join(sys.argv[1:]))
     plt.show()
 
 
